@@ -3,6 +3,7 @@ Data Analysis Tools for the THOR Catalogue
 
 PRE-REQUISITES:
 - Python 3.6
+
 Modules:
 - Tkinter
 - matplotlib
